@@ -1,4 +1,5 @@
 🎬 Netflix Movie Data Analysis
+
 📌 Project Overview
 
 This project explores and analyzes a Netflix movie dataset to uncover insights about genres, popularity, votes, and yearly trends.
@@ -8,23 +9,16 @@ The analysis was performed using Python with Pandas, NumPy, and Matplotlib for d
 netflix-movie-analysis/
 
 │
-
 ├── data/
-
 │   └── netflix_movies.csv        # Dataset used for analysis
 
 │
-
 ├── notebooks/
-
 │   └── netflix_analysis.ipynb    # Jupyter Notebook with full analysis
-
 │
 
 ├── outputs/
-
 │   └── visualizations/           # Graphs and plots generated
-
 │
 
 └── README.md                     # Project documentation
