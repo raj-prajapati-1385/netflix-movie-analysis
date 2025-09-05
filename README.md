@@ -6,17 +6,29 @@ The analysis was performed using Python with Pandas, NumPy, and Matplotlib for d
 
 📂 Repository Structure
 netflix-movie-analysis/
+
 │
+
 ├── data/
+
 │   └── netflix_movies.csv        # Dataset used for analysis
+
 │
+
 ├── notebooks/
+
 │   └── netflix_analysis.ipynb    # Jupyter Notebook with full analysis
+
 │
+
 ├── outputs/
+
 │   └── visualizations/           # Graphs and plots generated
+
 │
+
 └── README.md                     # Project documentation
+
 
 📊 Dataset Details
 
